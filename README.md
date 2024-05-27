@@ -1,6 +1,6 @@
 Copy all the contents
 
-in root foler execute following:
+in root folder execute following:
 
 npm install //installs both server and client deps
 
