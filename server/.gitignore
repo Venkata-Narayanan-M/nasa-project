@@ -5,3 +5,5 @@
 /coverage
 
 /build
+/public
+package-lock.json
